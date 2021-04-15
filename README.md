@@ -1,5 +1,5 @@
 # CafeManagement
-A simple app for the management of a cafe
+A simple app for the management of a cafe in C#
 <h3>Login Screen</h3>
 
 ![alt text](https://github.com/Christosbats/CafeManagement/blob/main/UI/Login%20Screen.png?raw=true)
